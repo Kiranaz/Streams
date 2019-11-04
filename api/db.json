@@ -1,0 +1,46 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is my stream, hope you enjoy..",
+      "id": 1
+    },
+    {
+      "title": "New Song",
+      "description": "Check this out mannnnnn",
+      "id": 2
+    },
+    {
+      "title": "New Song",
+      "description": "Check this out mannnnnn",
+      "id": 3
+    },
+    {
+      "title": "pubg",
+      "description": "let's die",
+      "id": 4
+    },
+    {
+      "title": "pubg1",
+      "description": "let's die1",
+      "id": 5
+    },
+    {
+      "title": "stream new",
+      "description": "new",
+      "id": 6
+    },
+    {
+      "title": "1",
+      "description": "1",
+      "userId": "100159543828402377297",
+      "id": 7
+    },
+    {
+      "title": "navigation router",
+      "description": "navigation router",
+      "userId": "100159543828402377297",
+      "id": 8
+    }
+  ]
+}
